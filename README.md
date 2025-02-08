@@ -44,7 +44,7 @@ This project predicts loan default using various machine learning techniques, fo
 The dataset used in this project is `loan_dataset.csv`, containing features such as loan amount, annual income, interest rate, and the target variable `loan_condition_cat`:
 - `0`: Defaulted loan.
 - `1`: Non-defaulted loan.
-
+https://www.kaggle.com/datasets/mrferozi/loan-data-for-dummy-bank/data
 ---
 
 ## Requirements
