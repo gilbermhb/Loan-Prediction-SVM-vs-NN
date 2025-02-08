@@ -22,7 +22,7 @@ import time
 #====================================
 # Loading dataset
 #====================================
-data = pd.read_csv('C:/Users/Gilbert Hernandez/OneDrive - Fordham University/CISC5800 - Machine Learning/Project/loan_dataset.csv')
+data = pd.read_csv('./loan_dataset.csv')
 
 
 
