@@ -22,6 +22,7 @@ import time
 #====================================
 # Loading dataset
 #====================================
+## Make sure to download the data from the link in the Readme file and save it into the same directory as the code
 data = pd.read_csv('./loan_dataset.csv')
 
 
